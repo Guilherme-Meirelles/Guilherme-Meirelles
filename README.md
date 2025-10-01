@@ -1,5 +1,6 @@
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Meirelles&show_icons=true&theme=dark)
 
+
 ### Seja bem vindo! 👋 
 ### Meu nome é Guilherme Meirelles e sou estudante do curso de Ciẽncias da Computação na UEM. 📚 
 ### Curriculo e Contato: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-meirelles-71569a381/)
