@@ -1,4 +1,4 @@
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Meirelles&show_icons=true&theme=dark)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagocalvi&show_icons=true&theme=dark)
 
 
 ### Seja bem vindo! 👋 
