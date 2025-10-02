@@ -7,7 +7,7 @@
 
 ### Linguagens de Programação que utilizo: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocalvi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Meirelles&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br/>
     <img aLign="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img aLign="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
