@@ -7,7 +7,7 @@
 
 ### Linguagens de Programação que utilizo: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Meirelles&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Meirelles&show_icons=true&theme=radical)
 <div style="display: inline_block"><br/>
     <img aLign="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img aLign="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -30,6 +30,7 @@
     <img aLign="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
     <img aLign="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
     <img aLign="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-   
+    <img aLign="center" alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+       
 </div>
 
